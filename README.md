@@ -10,7 +10,7 @@ Abhishek Blood Bank has built an interactive and simple to use web application f
 
 ## Technologies Used
 ### Microsoft Azure Resources
-Web App Service, Azure Database, Azure Connectors
+Web App Service, Azure Functions, Azure Database for MySQL
 ### Web Application Frontend
 HTML, CSS, JavaScript
 ### Web Application Backend
