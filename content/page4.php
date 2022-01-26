@@ -20,7 +20,7 @@
         </style>
     </head>
     <body>
-        <div class="pTitle">Red Bank</div>
+        <div class="pTitle">Abhishek Blood Bank</div>
         <div class="login">
               <a href="register.php" target="_blank">Register</a>
               <a href="login.php" target="_blank">Login</a>
