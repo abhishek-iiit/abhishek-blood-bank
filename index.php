@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>RedBank - Home</title>
+        <title>Abhishek Blood Bank</title>
         <link rel="stylesheet" href="./content/Main.css">
         <style>
             a:link, a:active, a:visited
@@ -19,7 +19,7 @@
         </style>
     </head>
     <body>
-        <div class="pTitle">Red Bank</div>
+        <div class="pTitle">Abhishek Blood Bank</div>
         <div class="login">
               <a href="./content/register.php">Register</a>
               <a href="./content/login.php" >Login</a>
